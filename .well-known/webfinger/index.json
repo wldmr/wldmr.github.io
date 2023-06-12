@@ -1,0 +1,18 @@
+{
+	"subject": "acct:social@wldmr.net",
+	"links": [
+		{
+			"rel": "http://webfinger.net/rel/profile-page",
+			"type": "text/html",
+			"href": "https://feddit.de/u/wldmr"
+		},
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://feddit.de/u/wldmr",
+			"properties": {
+				"https://www.w3.org/ns/activitystreams#type": "Person"
+			}
+		}
+	]
+}
